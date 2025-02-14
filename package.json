@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Test for styding",
-  "main": "index.js",
+  "main": "./nodejs-package/src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
